@@ -1,5 +1,5 @@
-safetensors==0.3.1
-datasets==2.10.1
+safetensors==0.4.3
+datasets==2.20.0
 sentencepiece
 git+https://github.com/huggingface/transformers
 accelerate==0.20.3
